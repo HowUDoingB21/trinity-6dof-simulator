@@ -1,5 +1,7 @@
 # Trinity 6-DOF Flight Simulator
 
+<img width="1134" height="402" alt="ORBITAL LOGOS TRANSPARENTE-01" src="https://github.com/user-attachments/assets/fa358b46-8f53-434c-ad3f-212ebc6dc2de" />
+
 **Orbital Dynamics** — High-fidelity 6-DOF post-flight analysis and pre-flight validation tool for the **Trinity** two-stage experimental sounding rocket (target apogee: 50–100 km).
 
 > Built to validate the Caronte V1 flight computer algorithms before hardware deployment.
